@@ -4,7 +4,7 @@ Final project for Technopreneurship course.
 ## App Overview
 Doodlepad is a mobile drawing application for kids.
 
-```Features```
+```Features``` :wrench:
 * custom color pallet
 * custom brush size
 * gallery
