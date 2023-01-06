@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/landing_holder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".activities.LandingActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="345dp"
+        android:layout_height="288dp"
+        android:paddingTop="120dp"
+        app:srcCompat="@drawable/pen" />
+
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_width="316dp"
+        android:layout_height="123dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="doodlepad"
+        android:textAlignment="center"
+        android:textColor="@color/md_yellow_700_dark"
+        android:textSize="55dp"
+        android:textStyle="bold"></TextView>
+
+    <Button
+        android:id="@+id/btnCreateNew"
+        android:layout_width="363dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/yellow_rounded_corder"
+        android:fontFamily="@font/poppins_bold"
+        android:text="CREATE NEW"
+        android:textColor="@color/md_grey_black_dark"
+        android:textSize="20dp"
+        android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/btnChooseFromGallery"
+        android:layout_width="363dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/black_rounded_corder"
+        android:fontFamily="@font/poppins_bold"
+        android:text="CHOOSE FROM GALLERY"
+        android:textColor="@color/md_yellow_700_dark"
+        android:textSize="20dp"
+        android:textStyle="bold"></Button>
+</LinearLayout>
