@@ -18,4 +18,4 @@ Doodlepad is a mobile drawing application for kids.
 
 ## Preview
 ![home](preview/home_and_canvas.png)
-![settings](preview/settings.png)
+
