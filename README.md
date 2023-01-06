@@ -15,3 +15,7 @@ Doodlepad is a mobile drawing application for kids.
 * color picker
 * share feature to social media site
 * add custome background
+
+## Preview
+![home](preview/home_and_canvas.png)
+![settings](preview/settings.png)
