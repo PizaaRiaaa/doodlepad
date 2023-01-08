@@ -1,4 +1,4 @@
-# doodlepad
+# Doodlepad
 Final project for Technopreneurship course (EGR C204).
 
 ## App Overview
