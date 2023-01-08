@@ -1,5 +1,5 @@
-# Doodlepad
-Final project for Technopreneurship course.
+# doodlepad
+Final project for Technopreneurship course (EGR C204).
 
 ## App Overview
 Doodlepad is a mobile drawing application for kids.
